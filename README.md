@@ -1,5 +1,5 @@
 # Project-Management-Capstone-Project
-##**Project Management Deliverables for Capstone Project:**
+## **Project Management Deliverables for Capstone Project:**
 
 **Project Planning:** Defined project scope, objectives, and timelines for each phase.
 
